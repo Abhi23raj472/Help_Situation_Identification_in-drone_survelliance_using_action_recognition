@@ -2,8 +2,8 @@
 # action-recognition
 
 ### Dataset used :
- https://www.kaggle.com/mateohervas/dcsass-dataset
- [https://www.crcv.ucf.edu/data/UCF-ARG.php](https://www.crcv.ucf.edu/data/UCF-ARG.php) 
+ https://www.kaggle.com/mateohervas/dcsass-dataset   
+ [https://www.crcv.ucf.edu/data/UCF-ARG.php](https://www.crcv.ucf.edu/data/UCF-ARG.php)    
  Merge these datasets into one folder.
  
 ## 3DCNN
