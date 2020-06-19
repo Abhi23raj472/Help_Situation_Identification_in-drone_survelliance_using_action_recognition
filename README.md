@@ -71,4 +71,8 @@ To train the model, change the dataset path and output path in 2DCNN+LSTM.ipynb 
 
 To train the model frst split the dataset into train and test data and change the parameters in TSN.ipynb file and run it.
 
+## Reference   
+3DCNN : https://github.com/dipakkr/3d-cnn-action-recognition   
+2DCNN+LSTM : https://github.com/hitottiez/cnn_lstm/blob/master/run.py   
+TSN : https://github.com/Ruiyang-061X/TSN
  
